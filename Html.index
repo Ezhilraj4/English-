@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tiger in the Zoo - English Seminar by Ezhil Raj</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h1 {
+            color: #0077cc;
+        }
+        section {
+            max-width: 800px;
+            margin: 0 auto 40px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px #ccc;
+        }
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        ul li {
+            margin-bottom: 8px;
+            font-size: 1.1em;
+        }
+        .chapter-details h2, .presenter-details h2, .presentation-section h2 {
+            color: #006699;
+        }
+        iframe {
+            display: block;
+            margin: 0 auto 10px auto;
+            border: 2px solid #0077cc;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tiger in the Zoo - Class 10 English Seminar</h1>
+        <p>Poem by Leslie Norris</p>
+    </header>
+    
+    <section class="presenter-details">
+        <h2>About the Presenter</h2>
+        <ul>
+            <li><strong>Name:</strong> Ezhil Raj</li>
+            <li><strong>Class:</strong> 10-E</li>
+            <li><strong>Subject:</strong> English</li>
+            <li><strong>School Name:</strong> Chettinadu Public School</li>
+            <li><strong>Teacher Name:</strong> Menaga</li>
+        </ul>
+    </section>
+
+    <section class="chapter-details">
+        <h2>About the Chapter</h2>
+        <p>
+            <strong>"Tiger in the Zoo"</strong> is a thought-provoking poem by Leslie Norris. The poem describes the contrasting lives of a tiger in the wild and a tiger in captivity. In its natural habitat, the tiger moves freely, stalking prey and living with dignity. However, in the zoo, the majestic animal is confined to a small cage, left to walk restlessly and helplessly.
+        </p>
+        <p>
+            The poet uses powerful imagery and emotions to evoke sympathy for the caged tiger. The poem reminds us of the importance of freedom, the cruelty of captivity, and our responsibility towards animals. It raises awareness about animal rights and the unnatural life of wild creatures held in confinement for human amusement.
+        </p>
+        <p>
+            Through this poem, Norris encourages readers to respect nature and animals, suggesting that all living beings deserve to live in their natural environment with freedom and respect.
+        </p>
+    </section>
+
+    <section class="presentation-section">
+        <h2>Presentation: Tiger in the Zoo</h2>
+        <!-- Replace the src URL below with your presentation embed link -->
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQWxAMPLEURL/embed?start=false&loop=false&delayms=3000"
+                width="700" height="400" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <p style="text-align:center; font-size: 0.9em; color: #666;">(PowerPoint presentation embedded from Google Slides)</p>
+    </section>
+
+</body>
+</html>
